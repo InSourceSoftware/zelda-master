@@ -6,6 +6,7 @@ featured: true
 draft: false
 tags:
   - zelda
+  - breath of the wild
 ogImage: "https://www.zelda.com/breath-of-the-wild/assets/img/media/ca-coldweather-thumb.jpg"
 description: This is my first blog post!
 ---

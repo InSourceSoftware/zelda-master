@@ -2,10 +2,11 @@
 author: Ben
 pubDatetime: 2023-05-08T17:00:00Z
 title: My Second Post
-featured: true
+featured: false
 draft: false
 tags:
   - zelda
+  - breath of the wild
 ogImage: ""
 description: This is my second blog post!
 ---
